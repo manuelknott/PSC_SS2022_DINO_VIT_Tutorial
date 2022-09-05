@@ -1,4 +1,4 @@
-# Hands on programming session "Facilitated Machine Learning with images using pre-trained Vision Transformers"
+# Facilitated Machine Learning with images using pre-trained Vision Transformers
 
 This Tutorial is part of the 2022 Summer School "[Application of Machine Learning in Plant Sciences](https://www.plantsciences.uzh.ch/en/teaching/summerschool.html)" organised by the Zurich-Based Plant Science Center.
 

@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+sklearn
+torch
+torchvision
+jupyterlab
+gdown
+ipywidgets 
+jupyterlab_widgets 
+jupyter
